@@ -1,0 +1,285 @@
+2025-01-25 11:33:32,112 - functions - INFO - Working from default directory C:\Users\jeffj\OneDrive\Documents\FITSolutionsProjects\Reficiency_Price_Check\Ref_InvPrcChecker 
+2025-01-25 11:33:32,113 - functions - INFO - Reading ./config/config.ini file 
+2025-01-25 11:33:32,113 - functions - INFO - Established Working Directories.
+2025-01-25 11:33:32,113 - GetBasePrice_Info - INFO - Imported 0 prices
+2025-01-25 11:33:32,113 - Ref_PrcTracker - INFO - Invoice Path : C:/Users/jeffj/OneDrive/Documents/FITSolutionsProjects/Reficiency_Price_Check/Invoices_To_Price_Check
+2025-01-25 11:33:32,113 - Ref_PrcTracker - INFO - Base Price Dir : C:/Users/jeffj/OneDrive/Documents/FITSolutionsProjects/Reficiency_Price_Check/Base_Price_Data_File
+2025-01-25 11:33:32,113 - Ref_PrcTracker - INFO - Output Dir : C:/Users/jeffj/OneDrive/Documents/FITSolutionsProjects/Reficiency_Price_Check
+2025-01-25 11:33:32,121 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240425_28260564_12747630948.pdf
+2025-01-25 11:33:32,232 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2073018 Date: 04/24/2024
+2025-01-25 11:33:32,348 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2073478 Date: 04/24/2024
+2025-01-25 11:33:32,432 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2073515 Date: 04/24/2024
+2025-01-25 11:33:32,434 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240501_28302886_12776897926.pdf
+2025-01-25 11:33:32,540 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2075416 Date: 04/30/2024
+2025-01-25 11:33:32,547 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240507_28346170_12803033266.pdf
+2025-01-25 11:33:32,682 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2077356 Date: 05/06/2024
+2025-01-25 11:33:32,689 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240508_28355206_12808355500.pdf
+2025-01-25 11:33:32,763 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2076329 Date: 05/07/2024
+2025-01-25 11:33:32,890 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2077913 Date: 05/07/2024
+2025-01-25 11:33:33,006 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2077913 Date: 05/07/2024
+2025-01-25 11:33:33,011 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240509_28363672_12814220458.pdf
+2025-01-25 11:33:33,147 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2078509 Date: 05/08/2024
+2025-01-25 11:33:33,157 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240513_28385332_12825501858.pdf
+2025-01-25 11:33:33,327 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2079506 Date: 05/10/2024
+2025-01-25 11:33:33,339 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240516_28411940_12841213360 (1).pdf
+2025-01-25 11:33:33,474 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2081047 Date: 05/15/2024
+2025-01-25 11:33:33,485 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240523_28458746_12868518614.pdf
+2025-01-25 11:33:33,568 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2083499 Date: 05/22/2024
+2025-01-25 11:33:33,571 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240524_28467268_12873796228.pdf
+2025-01-25 11:33:33,717 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2084333 Date: 05/23/2024
+2025-01-25 11:33:33,874 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2084333 Date: 05/23/2024
+2025-01-25 11:33:33,988 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2084333 Date: 05/23/2024
+2025-01-25 11:33:33,991 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240528_28485062_12882428044.pdf
+2025-01-25 11:33:34,089 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2084681 Date: 05/24/2024
+2025-01-25 11:33:34,094 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240529_28494098_12887816968.pdf
+2025-01-25 11:33:34,245 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2085084 Date: 05/28/2024
+2025-01-25 11:33:34,338 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2085271 Date: 05/28/2024
+2025-01-25 11:33:34,339 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240530_28502576_12893786438.pdf
+2025-01-25 11:33:34,419 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2084386 Date: 05/29/2024
+2025-01-25 11:33:34,545 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2085595 Date: 05/29/2024
+2025-01-25 11:33:34,667 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2085689 Date: 05/29/2024
+2025-01-25 11:33:34,772 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2085691 Date: 05/29/2024
+2025-01-25 11:33:34,779 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240607_28564978_12936620298 (1).pdf
+2025-01-25 11:33:34,917 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2088888 Date: 06/06/2024
+2025-01-25 11:33:35,057 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2088888 Date: 06/06/2024
+2025-01-25 11:33:35,066 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240613_28604893_12959140875.pdf
+2025-01-25 11:33:35,149 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2090871 Date: 06/12/2024
+2025-01-25 11:33:35,152 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240614_28613483_12964477237.pdf
+2025-01-25 11:33:35,254 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2091508 Date: 06/13/2024
+2025-01-25 11:33:35,255 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240617_28626703_12972310707.pdf
+2025-01-25 11:33:35,391 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2091961 Date: 06/14/2024
+2025-01-25 11:33:35,404 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240619_28644327_12982445137.pdf
+2025-01-25 11:33:35,501 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2093099 Date: 06/18/2024
+2025-01-25 11:33:35,506 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240620_28652687_12987781661.pdf
+2025-01-25 11:33:35,585 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2093575 Date: 06/19/2024
+2025-01-25 11:33:35,588 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240626_28692247_13010239525.pdf
+2025-01-25 11:33:35,711 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2095696 Date: 06/25/2024
+2025-01-25 11:33:35,723 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240627_28701753_13017552921.pdf
+2025-01-25 11:33:35,875 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2096220 Date: 06/26/2024
+2025-01-25 11:33:35,977 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2096220 Date: 06/26/2024
+2025-01-25 11:33:35,982 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240628_28710481_13022751183.pdf
+2025-01-25 11:33:36,073 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2096494 Date: 06/27/2024
+2025-01-25 11:33:36,175 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2096934 Date: 06/27/2024
+2025-01-25 11:33:36,182 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240701_28726067_13035654959.pdf
+2025-01-25 11:33:36,257 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2073513 Date: 06/28/2024
+2025-01-25 11:33:36,376 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2097392 Date: 06/28/2024
+2025-01-25 11:33:36,382 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240703_28746311_13048297213.pdf
+2025-01-25 11:33:36,489 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2098378 Date: 07/02/2024
+2025-01-25 11:33:36,496 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240708_28772179_13060994241.pdf
+2025-01-25 11:33:36,578 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2099053 Date: 07/03/2024
+2025-01-25 11:33:36,581 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240711_28797787_13076376727.pdf
+2025-01-25 11:33:36,668 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2100647 Date: 07/10/2024
+2025-01-25 11:33:36,671 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240712_28806109_13081789129.pdf
+2025-01-25 11:33:36,779 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2101296 Date: 07/11/2024
+2025-01-25 11:33:36,786 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240717_28836505_13098901315 (1).pdf
+2025-01-25 11:33:36,928 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2102658 Date: 07/16/2024
+2025-01-25 11:33:37,088 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2102658 Date: 07/16/2024
+2025-01-25 11:33:37,173 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2102682 Date: 07/16/2024
+2025-01-25 11:33:37,257 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2103038 Date: 07/16/2024
+2025-01-25 11:33:37,259 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240718_28845269_13104270711.pdf
+2025-01-25 11:33:37,368 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2103637 Date: 07/17/2024
+2025-01-25 11:33:37,376 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240719_28853839_13110518859.pdf
+2025-01-25 11:33:37,486 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2104024 Date: 07/18/2024
+2025-01-25 11:33:37,493 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240722_28866447_13116921409.pdf
+2025-01-25 11:33:37,654 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2104701 Date: 07/19/2024
+2025-01-25 11:33:37,664 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240724_28883579_13128875737.pdf
+2025-01-25 11:33:37,811 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2105571 Date: 07/23/2024
+2025-01-25 11:33:37,922 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2105571 Date: 07/23/2024
+2025-01-25 11:33:37,992 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2105707 Date: 07/23/2024
+2025-01-25 11:33:37,994 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240725_28892413_13134297281.pdf
+2025-01-25 11:33:38,081 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2106063 Date: 07/24/2024
+2025-01-25 11:33:38,196 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2106070 Date: 07/24/2024
+2025-01-25 11:33:38,203 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240726_28901553_13140074171.pdf
+2025-01-25 11:33:38,319 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2106690 Date: 07/25/2024
+2025-01-25 11:33:38,321 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240729_28915553_13149365043.pdf
+2025-01-25 11:33:38,449 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2107223 Date: 07/26/2024
+2025-01-25 11:33:38,458 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240730_28924285_13154860847.pdf
+2025-01-25 11:33:38,590 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2107729 Date: 07/29/2024
+2025-01-25 11:33:38,599 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240731_28933447_13160999927.pdf
+2025-01-25 11:33:38,707 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2108244 Date: 07/30/2024
+2025-01-25 11:33:38,837 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2108267 Date: 07/30/2024
+2025-01-25 11:33:38,848 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240801_28943349_13169368613.pdf
+2025-01-25 11:33:38,965 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2108323 Date: 07/31/2024
+2025-01-25 11:33:39,043 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2108858 Date: 07/31/2024
+2025-01-25 11:33:39,045 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240802_28954011_13176410833.pdf
+2025-01-25 11:33:39,124 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2109484 Date: 08/01/2024
+2025-01-25 11:33:39,246 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2109499 Date: 08/01/2024
+2025-01-25 11:33:39,255 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240805_28968295_13185099601 (1).pdf
+2025-01-25 11:33:39,393 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2109919 Date: 08/02/2024
+2025-01-25 11:33:39,530 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2109919 Date: 08/02/2024
+2025-01-25 11:33:39,535 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240807_28985701_13195013587.pdf
+2025-01-25 11:33:39,648 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2111138 Date: 08/06/2024
+2025-01-25 11:33:39,723 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2111139 Date: 08/06/2024
+2025-01-25 11:33:39,724 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240808_28994563_13200329779.pdf
+2025-01-25 11:33:39,799 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2107754 Date: 08/07/2024
+2025-01-25 11:33:39,903 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2111672 Date: 08/07/2024
+2025-01-25 11:33:40,029 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2111688 Date: 08/07/2024
+2025-01-25 11:33:40,040 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240809_29003237_13205531309.pdf
+2025-01-25 11:33:40,159 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2112284 Date: 08/08/2024
+2025-01-25 11:33:40,163 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240812_29016113_13212805973.pdf
+2025-01-25 11:33:40,296 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2112702 Date: 08/09/2024
+2025-01-25 11:33:40,400 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2112702 Date: 08/09/2024
+2025-01-25 11:33:40,482 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2112712 Date: 08/09/2024
+2025-01-25 11:33:40,485 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240813_29024007_13217359285.pdf
+2025-01-25 11:33:40,614 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2112547 Date: 08/12/2024
+2025-01-25 11:33:40,742 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2112547 Date: 08/12/2024
+2025-01-25 11:33:40,746 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240814_29032563_13232239785.pdf
+2025-01-25 11:33:40,838 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2113706 Date: 08/13/2024
+2025-01-25 11:33:40,921 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2113974 Date: 08/13/2024
+2025-01-25 11:33:40,925 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240815_29041759_13237934407.pdf
+2025-01-25 11:33:41,002 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2114020 Date: 08/14/2024
+2025-01-25 11:33:41,130 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2114334 Date: 08/14/2024
+2025-01-25 11:33:41,270 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2114334 Date: 08/14/2024
+2025-01-25 11:33:41,361 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2114408 Date: 08/14/2024
+2025-01-25 11:33:41,365 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240816_29049319_13243854291.pdf
+2025-01-25 11:33:41,485 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2114929 Date: 08/15/2024
+2025-01-25 11:33:41,495 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240820_29070753_13255282411.pdf
+2025-01-25 11:33:41,598 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2116218 Date: 08/19/2024
+2025-01-25 11:33:41,604 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240822_29088405_13266846113.pdf
+2025-01-25 11:33:41,711 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2117333 Date: 08/21/2024
+2025-01-25 11:33:41,718 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240823_29097429_13272984545.pdf
+2025-01-25 11:33:41,855 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2117764 Date: 08/22/2024
+2025-01-25 11:33:41,939 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2117802 Date: 08/22/2024
+2025-01-25 11:33:41,941 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240826_29111027_13280777281.pdf
+2025-01-25 11:33:42,024 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2116936 Date: 08/23/2024
+2025-01-25 11:33:42,158 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2119856 Date: 08/23/2024
+2025-01-25 11:33:42,171 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240829_29137941_13299056989.pdf
+2025-01-25 11:33:42,275 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2121521 Date: 08/28/2024
+2025-01-25 11:33:42,282 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240830_29146357_13304623599.pdf
+2025-01-25 11:33:42,373 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2122305 Date: 08/29/2024
+2025-01-25 11:33:42,378 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240903_29166159_13319400473.pdf
+2025-01-25 11:33:42,520 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2122793 Date: 08/30/2024
+2025-01-25 11:33:42,529 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240904_29175931_13324483779.pdf
+2025-01-25 11:33:42,633 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2121731 Date: 09/03/2024
+2025-01-25 11:33:42,735 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2123143 Date: 09/03/2024
+2025-01-25 11:33:42,742 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240905_29185029_13331080555.pdf
+2025-01-25 11:33:42,832 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2123300 Date: 09/04/2024
+2025-01-25 11:33:42,837 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240906_29194209_13337365953.pdf
+2025-01-25 11:33:42,935 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2124421 Date: 09/05/2024
+2025-01-25 11:33:42,940 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240907_29201819_13342008049.pdf
+2025-01-25 11:33:43,041 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2124477 Date: 09/06/2024
+2025-01-25 11:33:43,154 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2124951 Date: 09/06/2024
+2025-01-25 11:33:43,163 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240910_29215198_13348882702.pdf
+2025-01-25 11:33:43,285 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2123927 Date: 09/09/2024
+2025-01-25 11:33:43,367 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2123927 Date: 09/09/2024
+2025-01-25 11:33:43,456 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2123991 Date: 09/09/2024
+2025-01-25 11:33:43,606 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2125239 Date: 09/09/2024
+2025-01-25 11:33:43,721 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2125491 Date: 09/09/2024
+2025-01-25 11:33:43,728 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240911_29225116_13355972818.pdf
+2025-01-25 11:33:43,815 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2126020 Date: 09/10/2024
+2025-01-25 11:33:43,919 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2126028 Date: 09/10/2024
+2025-01-25 11:33:43,923 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240912_29233514_13361454486.pdf
+2025-01-25 11:33:44,009 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2126917 Date: 09/11/2024
+2025-01-25 11:33:44,013 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240918_29273324_13384684210.pdf
+2025-01-25 11:33:44,152 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2128752 Date: 09/17/2024
+2025-01-25 11:33:44,282 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2128762 Date: 09/17/2024
+2025-01-25 11:33:44,288 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240920_29290696_13396579752.pdf
+2025-01-25 11:33:44,359 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2130030 Date: 09/19/2024
+2025-01-25 11:33:44,486 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2130338 Date: 09/19/2024
+2025-01-25 11:33:44,627 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2130338 Date: 09/19/2024
+2025-01-25 11:33:44,723 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2130338 Date: 09/19/2024
+2025-01-25 11:33:44,727 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240925_29321790_13414406182.pdf
+2025-01-25 11:33:44,825 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2131752 Date: 09/24/2024
+2025-01-25 11:33:44,904 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2132188 Date: 09/24/2024
+2025-01-25 11:33:45,023 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2132193 Date: 09/24/2024
+2025-01-25 11:33:45,032 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240926_29331640_13421005922.pdf
+2025-01-25 11:33:45,163 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2131711 Date: 09/25/2024
+2025-01-25 11:33:45,264 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2131711 Date: 09/25/2024
+2025-01-25 11:33:45,417 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2132811 Date: 09/25/2024
+2025-01-25 11:33:45,429 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240927_29340190_13426874364.pdf
+2025-01-25 11:33:45,529 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2133394 Date: 09/26/2024
+2025-01-25 11:33:45,625 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2133408 Date: 09/26/2024
+2025-01-25 11:33:45,631 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20240930_29353786_13437701010.pdf
+2025-01-25 11:33:45,723 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2133827 Date: 09/27/2024
+2025-01-25 11:33:45,730 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241001_29364374_13445835116.pdf
+2025-01-25 11:33:45,804 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2133844 Date: 09/30/2024
+2025-01-25 11:33:45,892 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2133848 Date: 09/30/2024
+2025-01-25 11:33:46,057 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2134317 Date: 09/30/2024
+2025-01-25 11:33:46,176 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2134480 Date: 09/30/2024
+2025-01-25 11:33:46,185 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241002_29374774_13454008780.pdf
+2025-01-25 11:33:46,268 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2134976 Date: 10/01/2024
+2025-01-25 11:33:46,271 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241003_29383656_13460356216.pdf
+2025-01-25 11:33:46,395 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2135064 Date: 10/02/2024
+2025-01-25 11:33:46,478 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2135064 Date: 10/02/2024
+2025-01-25 11:33:46,574 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2135071 Date: 10/02/2024
+2025-01-25 11:33:46,669 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2135596 Date: 10/02/2024
+2025-01-25 11:33:46,677 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241004_29392610_13466592234.pdf
+2025-01-25 11:33:46,752 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2133400 Date: 10/03/2024
+2025-01-25 11:33:46,755 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241007_29405848_13474288702.pdf
+2025-01-25 11:33:46,826 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2136655 Date: 10/04/2024
+2025-01-25 11:33:46,958 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2136665 Date: 10/04/2024
+2025-01-25 11:33:46,972 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241008_29414636_13478841558.pdf
+2025-01-25 11:33:47,046 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2136690 Date: 10/07/2024
+2025-01-25 11:33:47,048 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241009_29423054_13484553728.pdf
+2025-01-25 11:33:47,176 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2137814 Date: 10/08/2024
+2025-01-25 11:33:47,271 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2137824 Date: 10/08/2024
+2025-01-25 11:33:47,369 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2137831 Date: 10/08/2024
+2025-01-25 11:33:47,375 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241010_29431494_13490442534.pdf
+2025-01-25 11:33:47,457 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2137942 Date: 10/09/2024
+2025-01-25 11:33:47,546 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2138375 Date: 10/09/2024
+2025-01-25 11:33:47,550 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241011_29440052_13495785982.pdf
+2025-01-25 11:33:47,678 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2138017 Date: 10/10/2024
+2025-01-25 11:33:47,685 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241014_29452602_13502808092.pdf
+2025-01-25 11:33:47,781 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2139522 Date: 10/11/2024
+2025-01-25 11:33:47,882 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2139541 Date: 10/11/2024
+2025-01-25 11:33:47,890 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241016_29469056_13512305916.pdf
+2025-01-25 11:33:48,006 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2140715 Date: 10/15/2024
+2025-01-25 11:33:48,016 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241017_29477752_13517599588.pdf
+2025-01-25 11:33:48,139 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2141404 Date: 10/16/2024
+2025-01-25 11:33:48,295 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2141411 Date: 10/16/2024
+2025-01-25 11:33:48,306 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241018_29485968_13522588546.pdf
+2025-01-25 11:33:48,437 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2141880 Date: 10/17/2024
+2025-01-25 11:33:48,524 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2141891 Date: 10/17/2024
+2025-01-25 11:33:48,526 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241023_29516288_13539479038.pdf
+2025-01-25 11:33:48,658 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2143057 Date: 10/22/2024
+2025-01-25 11:33:48,674 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241028_29547376_13559512536.pdf
+2025-01-25 11:33:48,749 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2145265 Date: 10/25/2024
+2025-01-25 11:33:48,751 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241030_29565064_13570066646.pdf
+2025-01-25 11:33:48,841 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2146356 Date: 10/29/2024
+2025-01-25 11:33:48,846 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241101_29583850_13584094776.pdf
+2025-01-25 11:33:48,990 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2147762 Date: 10/31/2024
+2025-01-25 11:33:48,996 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241104_29598566_13593006682.pdf
+2025-01-25 11:33:49,073 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2147797 Date: 11/01/2024
+2025-01-25 11:33:49,184 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2148268 Date: 11/01/2024
+2025-01-25 11:33:49,192 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241106_29616478_13603853114.pdf
+2025-01-25 11:33:49,311 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2149342 Date: 11/05/2024
+2025-01-25 11:33:49,322 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241111_29646732_13620849842.pdf
+2025-01-25 11:33:49,416 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2149665 Date: 11/08/2024
+2025-01-25 11:33:49,525 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2151253 Date: 11/08/2024
+2025-01-25 11:33:49,529 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241112_29655006_13624843516.pdf
+2025-01-25 11:33:49,660 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2152066 Date: 11/11/2024
+2025-01-25 11:33:49,783 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2152066 Date: 11/11/2024
+2025-01-25 11:33:49,792 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241113_29663646_13630244484.pdf
+2025-01-25 11:33:49,867 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2152529 Date: 11/12/2024
+2025-01-25 11:33:49,869 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241115_29680390_13640388364.pdf
+2025-01-25 11:33:49,957 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2153525 Date: 11/14/2024
+2025-01-25 11:33:49,962 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241118_29693400_13646931650.pdf
+2025-01-25 11:33:50,083 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2154030 Date: 11/15/2024
+2025-01-25 11:33:50,196 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2154164 Date: 11/15/2024
+2025-01-25 11:33:50,205 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241120_29710516_13656715630.pdf
+2025-01-25 11:33:50,287 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2155115 Date: 11/19/2024
+2025-01-25 11:33:50,290 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241122_29727576_13667149964.pdf
+2025-01-25 11:33:50,399 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2156344 Date: 11/21/2024
+2025-01-25 11:33:50,408 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241127_29758182_13685169920.pdf
+2025-01-25 11:33:50,502 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2157979 Date: 11/26/2024
+2025-01-25 11:33:50,509 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241202_29781174_13701267774.pdf
+2025-01-25 11:33:50,608 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2158788 Date: 11/27/2024
+2025-01-25 11:33:50,615 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241203_29791046_13707424300.pdf
+2025-01-25 11:33:50,725 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2159383 Date: 12/02/2024
+2025-01-25 11:33:50,729 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20241204_29800004_13713425734.pdf
+2025-01-25 11:33:50,843 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2159806 Date: 12/03/2024
+2025-01-25 11:33:50,852 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20250102_29983533_13814177419 (1).pdf
+2025-01-25 11:33:50,951 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2169197 Date: 12/31/2024
+2025-01-25 11:33:51,080 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2169450 Date: 12/31/2024
+2025-01-25 11:33:51,218 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2169450 Date: 12/31/2024
+2025-01-25 11:33:51,329 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2169508 Date: 12/31/2024
+2025-01-25 11:33:51,330 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20250109_30030181_13839967573.pdf
+2025-01-25 11:33:51,410 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2172037 Date: 01/08/2025
+2025-01-25 11:33:51,413 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20250114_30058751_13854102289 (3).pdf
+2025-01-25 11:33:51,552 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2173255 Date: 01/13/2025
+2025-01-25 11:33:51,650 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2173255 Date: 01/13/2025
+2025-01-25 11:33:51,655 - Extract_Data_From_PDF_Tables - INFO - YQ-12145_20250115_30066989_13858834813.pdf
+2025-01-25 11:33:51,794 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2173573 Date: 01/14/2025
+2025-01-25 11:33:51,959 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2173573 Date: 01/14/2025
+2025-01-25 11:33:52,054 - Extract_Data_From_PDF_Tables - INFO - Invoice Number: 6585-2173749 Date: 01/14/2025
+2025-01-25 11:33:52,125 - Ref_PrcTracker - INFO - Processed 101 Invoices With 1482 Prices
